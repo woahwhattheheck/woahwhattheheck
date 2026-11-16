@@ -1,3 +1,7 @@
+## Official recognition
+
+[2026 CCF Origin Cup — official winners list (Origin Quantum)](https://qcloud.originqc.com.cn/learning/en/contest/list/60/contest:winners)
+
 ## Software contributions
 
 I’m a contributor to these projects:
